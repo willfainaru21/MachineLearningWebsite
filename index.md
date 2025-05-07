@@ -102,9 +102,7 @@ Deterioration and disinvestment in the housing market often reverberate through 
 
 The following map explores the distribution of pharmacies across the city, with a particular focus on East New York—a neighborhood long recognized for its lack of infrastructure, adequate housing, and, notably, pharmacies. For individuals like Lorenzo, this gap in access can be devastating. He was off his prescribed medication at the time of his most recent arrest and has openly shared his struggles with substance abuse, an issue that has been prevalent in East New York since the 1990s. This map juxtaposes the geography of over-the-counter and prescription medication access with the street-level presence of controlled substances, unpackin the structural inequities that spur criminal actiity.
 
-<div class="iframe-column">
-  <iframe src="https://willfainaru21.github.io/ConflictUrbanismFinal/CrimeandPharmacy_with_Boundary (2).html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe>
-</div>
+
 
 
 
