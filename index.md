@@ -25,7 +25,7 @@ Despite the trauma, the kids forged a kind of kinship. They played Manhunt on a 
 Disinvestment had gripped East New York since the 1970s, when predatory lenders targeted Black homeowners left behind in the wake of white flight. By the 1990s, the client was coming of age in what had become the most dangerous ZIP code in the country (Horn 25). The disinvestment and turmoil that plagued the neighborhood was palpable.Lorenzo had seen dead bodies on his doorstep. 
 His first visible signs of mental illness emerged before his initial incarceration in 2003. By then, the tight-knit fabric of his childhood block had unraveled. His mother and sister moved to Ozone Park, closer to Jamaica Hospital, where his sister Raquel worked and tried to get Joel into mental health treatment. During this time, East New York was suffering from the same cyclical economic turnover that had characteized the 90s, only in reverse. The neighborhood was being inundated with investment from outside investors, catalyzed by the neighborhood’s rezoning. 
 
-<img src="/MachineLearningWebsite/_images/Fainaru/Subdivision.png" alt=" housing gif" width="500"/>
+<img src="/MachineLearningWebsite/_images/Subdivision.png" alt=" housing gif" width="500"/>
 
 Family subdivision in East New York (2025)
 
@@ -61,7 +61,7 @@ Despite being designed to foster stability and recovery,  housing often excludes
 
 The following map illusrates how few  housing facilities within the New York State's Office of Mental Health facilites actually accepted applicants directly from correctional facilities. 
 
-![supportive housing gif](/MachineLearningWebsite/_images/Fainaru/supportive_housing_combined.gif)
+![supportive housing gif](/MachineLearningWebsite/_images/supportive_housing_combined.gif)
 
 
 
@@ -73,7 +73,7 @@ It is difficult to compare across supportive housing facilities as they vary sig
 
 #KMeans Clustering (N=3)
 
-<img src="/MachineLearningWebsite/_images/Fainaru/KMeansCluster.png" style="width: 75%; margin-bottom: 20px;" alt="K-Means Cluster">
+<img src="/MachineLearningWebsite/_images/KMeansCluster.png" style="width: 75%; margin-bottom: 20px;" alt="K-Means Cluster">
 
 This map illustrates the spatial distribution of supportive housing facilities, highlighting variation across key indicators such as median length of stay, number of beds, and KMeans cluster scores—used here to assess relative program continuity. Also shown are the locations of Assertive Community Treatment (ACT) teams, mobile mental health clinics that assist clients transitioning from psychiatric institutions into supportive housing.
 
@@ -111,7 +111,7 @@ Research by Lim et al., using SPARCS data provided by the New York State Departm
 Building on their work, I used the same SPARCS dataset to examine the financial burden of psychiatric care across neighborhoods. I queried 1,000 records of psychiatric discharges from hospitals in the New York City metro area, focusing on how much patients paid out of pocket compared to what their insurance covered.
 Jamaica Hospital, where Lorenzo briefly received treatment, had one of the highest out-of-pocket ratios citywide. This indicates that patients there—many of whom are likely uninsured or underinsured—bear a disproportionately high share of psychiatric costs.
 
-<img src="/MachineLearningWebsite/_images/Fainaru/JamaicaHospital.png" 
+<img src="/MachineLearningWebsite/_images/JamaicaHospital.png" 
      style="height: auto; max-height: 800px; width: auto; display: block; margin-left: auto; margin-right: auto;" 
      alt="Jamaica Hospital">
 
