@@ -1,14 +1,14 @@
 ---
 layout: post
 date:   2025-03-25
-image: fss
+image: 
 title:  "Machine Learning Website
 author: "Will Fainaru"
 ---
 
 “
 
-(/MachineLearningWebsite/_images/https://github.com/willfainaru21/MachineLearningWebsite/_images/MachineLearningWebsite/image-2.png)
+(/MachineLearningWebsite/_images/https://github.com/willfainaru21/MachineLearningWebsite/_images/MachineLearningWebsite/newplot (4).png)
 
 
 
