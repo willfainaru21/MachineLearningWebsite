@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2025-03-25
-image: 
+image: fss
 title:  "Machine Learning Website
 author: "Will Fainaru"
 ---
