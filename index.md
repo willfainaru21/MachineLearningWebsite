@@ -8,7 +8,7 @@ author: "Will Fainaru"
 
 “
 
-(/MachineLearningWebsite/_images/https://github.com/willfainaru21/MachineLearningWebsite/_images/MachineLearningWebsite/_images/MachineLearningWebsite/image-2.png)
+(/MachineLearningWebsite/_images/https://github.com/willfainaru21/MachineLearningWebsite/_images/MachineLearningWebsite/image-2.png)
 
 
 
