@@ -1,38 +1,15 @@
 ---
 layout: post
 date:   2025-03-25
-image: "/MachineLearningWebsite/_images/Fainaru/USGS_Rikers.png"
-title:  "The Prisoner's Dilemma"
+image: 
+title:  "Machine Learning Website
 author: "Will Fainaru"
 ---
 
-“A prison is a city that weighs heavily on the place where it is” -- Ruth Wilson Gilmore (Hale 08)
+“
 
+(/MachineLearningWebsite/_images/https://github.com/willfainaru21/MachineLearningWebsite/_images/MachineLearningWebsite/_images/MachineLearningWebsite/image-2.png)
 
-#### Introduction
-
-
-This past semester, I worked with the Legal Aid Society and students from Bronx Law School as part of the Video Mitigation Unit, a team dedicated to contextualizing the lives of defendants on trial through storytelling. Their goal is to humanize defendants by highlighting the circumstances that  precede incarceration.
-Given my research on supportive housing and psychiatric care, I joined the team to help understand the intersection between mental health courts and housing. The client suffers from Borderline Personality Disorder, hallucinations, and severe anxiety. He was previously subjected to solitary confinement at Rikers Island and, after completing mental health court, failed to secure long-term care. Our team sought to unpack why his initial experience in the mental health diversion program (MD1) was unsuccessful and how he might receive better treatment moving forward.
-  
-
-#### Legal Aid Society 
-(The following names are fictionalized for confidentiality)
-“We were exposed to death at a very young age,” Mark recalls. Growing up in a subdivision in East New York attached to a funeral home, he and his friends lived in the shadow of mortality— especially during the crack epidemic of the 1980s. They helped each other with chores, maintaining each other’s front yards. When Mark was the new kid on the block, Lorenzo indoctrinated him into the neighborhood.
-
-Mental health was never discussed; suffering was the norm. Anything else felt superfluous.
-Despite the trauma, the kids forged a kind of kinship. They played Manhunt on a vacant landfill across the street—land that remains empty to this day. Lorenzo father, a local minister, walked them to church every week, sermonizing as they went. But even the church provoked Lorenzo’s paranoia. He claims he witnessed an exorcism as a child and avoided it ever since.
-Disinvestment had gripped East New York since the 1970s, when predatory lenders targeted Black homeowners left behind in the wake of white flight. By the 1990s, the client was coming of age in what had become the most dangerous ZIP code in the country (Horn 25). The disinvestment and turmoil that plagued the neighborhood was palpable.Lorenzo had seen dead bodies on his doorstep. 
-His first visible signs of mental illness emerged before his initial incarceration in 2003. By then, the tight-knit fabric of his childhood block had unraveled. His mother and sister moved to Ozone Park, closer to Jamaica Hospital, where his sister Raquel worked and tried to get Joel into mental health treatment. During this time, East New York was suffering from the same cyclical economic turnover that had characteized the 90s, only in reverse. The neighborhood was being inundated with investment from outside investors, catalyzed by the neighborhood’s rezoning. 
-
-<img src="/MachineLearningWebsite/_images/Subdivision.png" alt=" housing gif" width="500"/>
-
-Family subdivision in East New York (2025)
-
-
-
-Family members moved away in search of better employment opportunities and more stable housing.Lorenzo's childhood home was repossessed and transferred through a gauntlet of LLCs. The neighborhood changed, but for longtime residents, the so-called "resurgence" following the 2016 rezoning felt hollow. Vacant lots, stalled construction, and absentee landlords painted a picture of speculative warfare, not revitalization.
-Lorenzo returned to this fractured environment after his release. His housing situation remained precarious—he bounced between couches, a former partner's apartment, and a transitional housing facility in Long Island City. Through a public defender, he entered a mental health court program and was connected to a behavioral health provider. Though he found the program beneficial, it offered neither housing nor long-term care. He found himself on the outside looking into the city’s Continuum of Care, which presupposes that housing should be the first step towards rehabilitation. Apparently Housing First comes with a caveat for former inmates.
 
 
 #### Barriers to  Housing
