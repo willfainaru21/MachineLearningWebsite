@@ -8,14 +8,14 @@ author: "Will Fainaru"
 
 “
 ![Image 1](./_images/MachineLearningWebsite/IMG_1093.png)
-![Image 2](./_images/MachineLearningWebsite/image-2.png)
+
 ![Image 3](./_images/MachineLearningWebsite/image-3.png)
 ![Image 4](./_images/MachineLearningWebsite/image-4.png)
 ![Image 5](./_images/MachineLearningWebsite/image-5.png)
 ![Plot 3](./_images/MachineLearningWebsite/newplot%20(3).png)
-![Plot 4](./_images/MachineLearningWebsite/newplot%20(4).png)
 
-![Insurance Type](./_images/MachineLearningWebsite/InsuranceType.png)
+
+
 ![OLS 1](./_images/MachineLearningWebsite/OLS1.png)
 ![OLS 2](./_images/MachineLearningWebsite/OLS2.png)
 ![Workflow](./_images/MachineLearningWebsite/Worfklow.png)
@@ -58,9 +58,11 @@ It is difficult to compare across supportive housing facilities as they vary sig
 
 #KMeans Clustering (N=3)
 
-<img src="/MachineLearningWebsite/_images/KMeansCluster.png" style="width: 75%; margin-bottom: 20px;" alt="K-Means Cluster">
+![Plot 4](./_images/MachineLearningWebsite/newplot%20(4).png)
 
-This map illustrates the spatial distribution of supportive housing facilities, highlighting variation across key indicators such as median length of stay, number of beds, and KMeans cluster scores—used here to assess relative program continuity. Also shown are the locations of Assertive Community Treatment (ACT) teams, mobile mental health clinics that assist clients transitioning from psychiatric institutions into supportive housing.
+![Image 5](./_images/MachineLearningWebsite/image-5.png)
+
+
 
 
 
@@ -74,7 +76,9 @@ This map illustrates the spatial distribution of supportive housing facilities, 
 
 
 
-#### Mental Health Care Disparities
+#### DOH Health Data
+
+
 
 Deterioration and disinvestment in the housing market often reverberate through the mental health care system. Housing insecurity amplifies psychological distress, while untreated mental illness can further destabilize housing—creating a self-reinforcing cycle of vulnerability. Bieler et al. describe housing and mental health care as interconnected elements within urban assemblages: interdependent constellations where precarity flows between systems (Bieler 2019). In this framework, instability and volatility in the housing market can permeate into the provision of public services.
 
@@ -84,12 +88,19 @@ Deterioration and disinvestment in the housing market often reverberate through 
   </iframe>
 </div>
 
+![Insurance Type](./_images/MachineLearningWebsite/InsuranceType.png)
+
+![Image 2](./_images/MachineLearningWebsite/image-2.png)
 
 The following map explores the distribution of pharmacies across the city, with a particular focus on East New York—a neighborhood long recognized for its lack of infrastructure, adequate housing, and, notably, pharmacies. For individuals like Lorenzo, this gap in access can be devastating. He was off his prescribed medication at the time of his most recent arrest and has openly shared his struggles with substance abuse, an issue that has been prevalent in East New York since the 1990s. This map juxtaposes the geography of over-the-counter and prescription medication access with the street-level presence of controlled substances, unpackin the structural inequities that spur criminal actiity.
 
+## Random Forest 
+![Image 3](./_images/MachineLearningWebsite/image-3.png)
 
 
+![feature](./_images/MachineLearningWebsite/feature.png)
 
+![feature](./_images/JamaicaHospital.png)
 
 
 Research by Lim et al., using SPARCS data provided by the New York State Department of Health, shows that gentrification and displacement are associated with increased psychiatric hospitalizations across New York City (Lim 17).
