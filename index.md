@@ -6,21 +6,9 @@ title:  "Machine Learning Website"
 author: "Will Fainaru"
 ---
 
-“
-![Image 1](./_images/MachineLearningWebsite/IMG_1093.png)
-
-![Image 3](./_images/MachineLearningWebsite/image-3.png)
-![Image 4](./_images/MachineLearningWebsite/image-4.png)
-![Image 5](./_images/MachineLearningWebsite/image-5.png)
-![Plot 3](./_images/MachineLearningWebsite/newplot%20(3).png)
 
 
-
-![OLS 1](./_images/MachineLearningWebsite/OLS1.png)
-![OLS 2](./_images/MachineLearningWebsite/OLS2.png)
-![Workflow](./_images/MachineLearningWebsite/Worfklow.png)
-
-#### Barriers to  Housing
+#### Background
 
 Supportive housing is intended to function at the nexus of housing and mental health care. Yet in practice, the connection between the two is often fragile—especially in neighborhoods like East New York, where decades of disinvestment have eroded the basic infrastructure needed to support either domain.
 For many residents, mental health treatment does not begin until incarceration. Places like Rikers Island—now one of the largest psychiatric providers in the country—have become de facto sites of mental health care.Mental health impinges on incarceration, with treatment inextricably linked to the carceral system. After release, people are often discharged back into the same neighborhoods and structural inequities that precipitated their decline—areas with few clinics, overstretched providers, limited pharmacy access, and chronic housing instability. In East New York, this cycle is particularly visible. The lack of structural mental health care has created a void that law enforcement and the carceral system fills the void. In the absence of adequate treatment,  people struggling with mental illness are predisposed to drug addiction and engaging in criminal activity.
@@ -48,7 +36,9 @@ The following map illusrates how few  housing facilities within the New York Sta
 
 ![supportive housing gif](/MachineLearningWebsite/_images/supportive_housing_combined.gif)
 
+#### Methods
 
+![workflow](./_images/MachineLearningWebsite/Worfklow.png)
 
 #### Continuity of Care using Machine Learning
 
@@ -56,7 +46,7 @@ Supportive housing is highly contingent on where it is located, as many faciliti
 The following map displays the location of the Office of Mental Health’s supportive housing facilities and its ACT teams listed in its mental health directory. 
 It is difficult to compare across supportive housing facilities as they vary significantly by location, populations they serve, financing sources, and performance. This makes it difficult to study continuity of care in regards to supportive housing. This is where I used K-Means Clustering to reclassify the OMH supportive housing facilities according to their performance metrics. This allowed be to delineate three clusters: High continuity, moderate continuity, and low continuity based on variables like “discharges per bed” and "median lengths of stay". By visualizing how these performance metrics vary across space, I could identify patterns that emerged between supportive housing and the mental health providers. It appears that ACT teams in close proximity to supportive housing sites in East Harlem and the South Bronx were more effective at transitioning patients to permanent supportive housing. 
 
-#KMeans Clustering (N=3)
+## KMeans Clustering (N=3)
 
 ![Plot 4](./_images/MachineLearningWebsite/newplot%20(4).png)
 
