@@ -2,7 +2,7 @@
 layout: post
 date:   2025-03-25
 image: ./_images/MachineLearningWebsite/image-4.png
-title:  "Machine Learning Website
+title:  "Machine Learning Website"
 author: "Will Fainaru"
 ---
 
