@@ -38,7 +38,8 @@ The following map illusrates how few  housing facilities within the New York Sta
 
 #### Methods
 
-![workflow](./_images/MachineLearningWebsite/Worfklow.png)
+<img src="/MachineLearningWebsite/_images/MachineLearningWebsite/Worfklow.png" alt="workflow image" width="500"/>
+
 
 #### Continuity of Care using Machine Learning
 
