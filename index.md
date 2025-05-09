@@ -15,6 +15,11 @@ author: "Will Fainaru"
 ![Plot 3](./_images/MachineLearningWebsite/newplot%20(3).png)
 ![Plot 4](./_images/MachineLearningWebsite/newplot%20(4).png)
 
+![Insurance Type](./_images/MachineLearningWebsite/InsuranceType.png)
+![OLS 1](./_images/MachineLearningWebsite/OLS1.png)
+![OLS 2](./_images/MachineLearningWebsite/OLS2.png)
+![Workflow](./_images/MachineLearningWebsite/Worfklow.png)
+
 #### Barriers to  Housing
 
 Supportive housing is intended to function at the nexus of housing and mental health care. Yet in practice, the connection between the two is often fragile—especially in neighborhoods like East New York, where decades of disinvestment have eroded the basic infrastructure needed to support either domain.
