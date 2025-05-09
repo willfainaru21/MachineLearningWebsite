@@ -5,6 +5,10 @@ image: ./_images/MachineLearningWebsite/image-4.png
 title:  "Machine Learning Website"
 author: "Will Fainaru"
 ---
+![Insurance Type](/MachineLearningWebsite/_images/MachineLearningWebsite/InsuranceType.png)
+![OLS 1](/MachineLearningWebsite/_images/MachineLearningWebsite/OLS1.png)
+![OLS 2](/MachineLearningWebsite/_images/MachineLearningWebsite/OLS2.png)
+![Workflow](/MachineLearningWebsite/_images/MachineLearningWebsite/Worfklow.png)
 
 
 
