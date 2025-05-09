@@ -1,16 +1,19 @@
 ---
 layout: post
 date:   2025-03-25
-image: 
+image: ![Image 4](./_images/MachineLearningWebsite/image-4.png)
 title:  "Machine Learning Website
 author: "Will Fainaru"
 ---
 
 “
-
-(/MachineLearningWebsite/_images/https://github.com/willfainaru21/MachineLearningWebsite/_images/MachineLearningWebsite/newplot (4).png)
-
-
+![Image 1](./_images/MachineLearningWebsite/IMG_1093.png)
+![Image 2](./_images/MachineLearningWebsite/image-2.png)
+![Image 3](./_images/MachineLearningWebsite/image-3.png)
+![Image 4](./_images/MachineLearningWebsite/image-4.png)
+![Image 5](./_images/MachineLearningWebsite/image-5.png)
+![Plot 3](./_images/MachineLearningWebsite/newplot%20(3).png)
+![Plot 4](./_images/MachineLearningWebsite/newplot%20(4).png)
 
 #### Barriers to  Housing
 
